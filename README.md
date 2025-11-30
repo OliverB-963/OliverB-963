@@ -1,26 +1,20 @@
-# 👋 Hi, I’m Oliver Bailey
+<h1 align="center">Hi 👋, I'm Oliver Bailey</h1>
+<h3 align="center">I’m a student at the University of Sheffield focused on artificial intelligence from the United Kingdom</h3>
 
-I’m a student at the University of Sheffield with a growing focus on artificial intelligence.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## 🧠 Interests & Focus
+<h3>- 🔭 I’m currently working on</h3>
+<ul>
+  <li>A Chess program <a href="https://github.com/OliverB-963/Chess-Game-Cpp.git">found here</a></li>
+  <li>A Neural Network <a href="https://github.com/OliverB-963/Neural-Network.git">found here</a></li>
+</ul>
 
-Artificial intelligence and machine learning
+<h3>-🌱 I’m currently learning</h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 
-Neural networks and algorithmic design
-
-## 💻 Technical Skills
-
-**Advanced: Python**  
-— numpy, pandas, tkinter, pygame, matplotlib
-
-Intermediate: Java, C++
-
-## 🔨 Current Projects
-
-Expanding my chess engine with a AI bot opponent
-
-Continuing development of my C++ neural network project
-
-## 🎯 What I’m Working Toward
-
-I’m aiming to deepen my understanding of AI and eventually specialise in intelligent systems and machine learning applications.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="mailto:olbailey@outlook.com">olbailey@outlook.com</a><br>
+  <a href="linkedin.com/in/oliver-bailey-software-developer">Linkedin</a>
+</p>
