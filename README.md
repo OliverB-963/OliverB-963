@@ -16,5 +16,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:olbailey@outlook.com">olbailey@outlook.com</a><br>
-  <a href="linkedin.com/in/oliver-bailey-software-developer">Linkedin</a>
+  <a href="https://www.linkedin.com/in/oliver-bailey-software-developer/">Linkedin</a>
 </p>
