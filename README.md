@@ -6,8 +6,8 @@
 
 <h3>- 🔭 I’m currently working on</h3>
 <ul>
-  <li>A Chess program <a href="https://github.com/OliverB-963/Chess-Game-Cpp.git">found here</a></li>
-  <li>A Neural Network <a href="https://github.com/OliverB-963/Neural-Network.git">found here</a></li>
+  <li>A Chess program <a href="https://github.com/OliverB-963/Chess-Game-Cpp.git" target="_blank">found here</a></li>
+  <li>A Neural Network <a href="https://github.com/OliverB-963/Neural-Network.git" target="_blank">found here</a></li>
 </ul>
 
 <h3>-🌱 I’m currently learning</h3>
@@ -16,5 +16,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:olbailey@outlook.com">olbailey@outlook.com</a><br>
-  <a href="https://www.linkedin.com/in/oliver-bailey-software-developer/">Linkedin</a>
+  <a href="https://www.linkedin.com/in/oliver-bailey-software-developer/" target="_blank">Linkedin</a>
 </p>
